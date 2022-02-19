@@ -46,3 +46,6 @@
     <a href = 'https://www.instagram.com/namcoolman6101/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
   
 <br>
+<br>
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NamNguyen Git&theme=tokyonight)](https://git.io/praveenscience)
