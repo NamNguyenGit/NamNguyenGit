@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
 <img width="50%" height = "50%" src="https://raw.githubusercontent.com/donezombie/donezombie/main/pepe.gif" alt="cover" />
 </div>
