@@ -1,5 +1,11 @@
 ### Hi there 👋
+<div align="center">
+<img width="50%" height = "50%" src="https://raw.githubusercontent.com/donezombie/donezombie/main/pepe.gif" alt="cover" />
+</div>
 
+<h1> Hello Guys < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 <!--
 **NamNguyenGit/NamNguyenGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
