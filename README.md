@@ -7,7 +7,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Don (Don Pham). Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Nam Nguyen . Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 Here are some ideas to get you started:
