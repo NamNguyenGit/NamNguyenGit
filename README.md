@@ -3,11 +3,12 @@
 <img width="50%" height = "50%" src="https://raw.githubusercontent.com/donezombie/donezombie/main/pepe.gif" alt="cover" />
 </div>
 
-<h1> Hello Guys < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Guys ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-<!--
-**NamNguyenGit/NamNguyenGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div size='20px'> Hi! My name is Don (Don Pham). Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
 Here are some ideas to get you started:
 
