@@ -49,3 +49,4 @@
 <br>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamNguyenGit)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=NamNguyenGit&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NamNguyenGit&theme=tokyonight) |
