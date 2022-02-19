@@ -48,4 +48,4 @@
 <br>
 <br>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NamNguyen Git&theme=tokyonight)](https://git.io/praveenscience)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NamNguyenGit)](https://github.com/ashutosh00710/github-readme-activity-graph)
